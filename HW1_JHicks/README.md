@@ -6,7 +6,7 @@ All members contributed constructively and helped to make sure that everyone was
 
 Jonathan Hicks: Primarily responsible for the coding, since he is already familiar with Python.
 
-Dan Nguyen: He had worked on the homework independently and pointed out issues and raised questions that were very helpful.
+Dat Nguyen: He had worked on the homework independently and pointed out issues and raised questions that were very helpful.
 
 Kopo Oromeng: She too had worked on the homework independently and pointed out issues and raised questions that were very helpful.
 
